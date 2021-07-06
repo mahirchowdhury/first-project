@@ -45,7 +45,7 @@ section{
     border-radius: 8px;
     padding: 6px;
     float: left;
-    margin-right: 30px;
+    margin-left: 20px;
     
 }
 recepie{
@@ -65,7 +65,7 @@ recepie{
     border-radius: 8px;
     padding: 6px;
     float: left;
-    margin-right: 30px;
+    margin-left: 20px;
 }
 .image{
     width: 15px;
@@ -79,7 +79,7 @@ recepie{
     border-radius: 8px;
     padding: 6px;
     float: left;
-    margin-right: 30px;
+    margin-left: 20px;
 }
 .receipe3 img{
     width: 100%;
